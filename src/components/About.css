@@ -1,0 +1,28 @@
+.about {
+    padding: 80px 20px;
+    background: #f5f8ff;
+    text-align: center;
+    color: #333;
+}
+
+.about h2 {
+    font-size: 2rem;
+    margin-bottom: 30px;
+    color: #0056ff;
+}
+
+.about-content {
+    max-width: 800px;
+    margin: 0 auto;
+    font-size: 1.1rem;
+    line-height: 1.8;
+    text-align: left;
+    background: white;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.about-content p {
+    margin-bottom: 1rem;
+}
