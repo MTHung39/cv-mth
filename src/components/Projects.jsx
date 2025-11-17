@@ -5,25 +5,25 @@ export default function Projects() {
         {
             title: "Weather App",
             description: "Ứng dụng dự báo thời tiết dùng API OpenWeather, có dark mode và responsive.",
-            image: "/public/projects/weather-app.png",
+            image: "/projects/weather-app.png",
             link: "https://weather-app-mth.vercel.app/",
         },
         {
             title: "Notes App",
             description: "Ứng dụng tạo các ghi chú.",
-            image: "/public/projects/notes-app.png",
+            image: "/projects/notes-app.png",
             link: "https://mthung39.github.io/notes-app/",
         },
         {
             title: "To-do App",
             description: "Ứng dụng cho phép lưu trữ lại các công việc cần thực hiện.",
-            image: "/public/projects/todo-app.png",
+            image: "/projects/todo-app.png",
             link: "https://mthung39.github.io/todo-app/",
         },
         {
             title: "CV-Online",
             description: "Website CV Online cá nhân với dark mode, form liên hệ và tối ưu SEO.",
-            image: "/public/projects/cv-online.png",
+            image: "/projects/cv-online.png",
             link: "#",
         },
     ];
