@@ -2,7 +2,7 @@ import './Contact.css';
 
 export default function Contact() {
     return (
-        <section className='contact' id='contact'>
+        <section className='contact' id='contact' data-aos='fade-left'>
             <h2>Liên hệ với mình</h2>
             <p>Nếu bạn quan tâm đến dự án của mình hoặc muốn hợp tác, hãy gửi tin nhắn nhé !</p>
 

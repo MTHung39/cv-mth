@@ -10,7 +10,7 @@ export default function Skills() {
     ];
 
     return (
-        <section className='skills' id='skills'>
+        <section className='skills' id='skills' data-aos='fade-right'>
             <h2>Kỹ năng của mình</h2>
             <div className='skills-content'>
                 {skills.map((skill, index) => (

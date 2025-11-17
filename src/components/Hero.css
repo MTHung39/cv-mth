@@ -45,3 +45,24 @@
 .btn:hover {
     background-color: #003bb5;
 }
+
+@media (max-width: 768px) {
+    .hero {
+        padding: 60px 20px;
+        text-align: center;
+    }
+
+    .hero h1 {
+        font-size: 1.8rem;
+    }
+
+    .hero p {
+        font-size: 1rem;
+        max-width: 100%;
+    }
+
+    .btn {
+        flex-direction: column;
+        gap: 10px;
+    }
+}

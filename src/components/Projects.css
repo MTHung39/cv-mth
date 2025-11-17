@@ -67,3 +67,13 @@
 .btn:hover {
     background: linear-gradient(90deg, #00c6ff, #007bff);
 }
+
+@media (max-width: 768px) {
+    .projects-container {
+        grid-template-columns: 1fr;
+    }
+
+    .project-card {
+        margin-bottom: 20px;
+    }
+}

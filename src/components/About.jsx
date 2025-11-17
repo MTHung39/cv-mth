@@ -2,7 +2,7 @@ import './About.css';
 
 export default function About() {
     return (
-        <section className='about' id='about'>
+        <section className='about' id='about' data-aos='fade-up'>
             <h2>Giới thiệu bản thân</h2>
             <div className='about-content'>
                 <p>

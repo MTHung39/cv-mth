@@ -26,3 +26,17 @@
 .about-content p {
     margin-bottom: 1rem;
 }
+
+@media (max-width: 768px) {
+    .about {
+        padding: 40px 20px;
+    }
+
+    .about h2 {
+        font-size: 1.6rem;
+    }
+
+    .about p {
+        font-size: 0.95rem;
+    }
+}

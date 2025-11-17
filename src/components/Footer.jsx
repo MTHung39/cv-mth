@@ -8,7 +8,7 @@ const Footer = () => {
     };
 
     return (
-        <footer className="footer">
+        <footer className="footer" data-aos='fade-up'>
             <div className="footer-content">
                 <p>© {new Date().getFullYear()} Mai Tấn Hưng. All right reserved.</p>
                 
